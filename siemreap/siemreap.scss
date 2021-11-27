@@ -1,0 +1,14 @@
+/* siemreap-regular - khmer */
+@font-face {
+  font-family: 'Siemreap';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.woff') format('woff'), /* Modern Browsers */
+       url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('~assets/fonts/siemreap/fonts/siemreap-v13-khmer-regular.svg#Siemreap') format('svg'); /* Legacy iOS */
+  unicode-range: U+1780-17FF, U+200C, U+25CC;
+}
